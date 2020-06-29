@@ -1,0 +1,1 @@
+docker buildx build --tag aquaresma/rpi-keycloak:10.0.2 --push --platform linux/arm64 .
